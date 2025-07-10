@@ -40,12 +40,8 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"></code>
-  <code><img height="40" src="https://avatars.githubusercontent.com/u/18125774?s=200&v=4"></code> <!-- OpenVAS -->
-  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Metasploit-logo.png"></code>
-  <code><img height="40" src="https://nmap.org/images/nmap-logo-64.png"></code>
 
   <!-- Platforms -->
-  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Kali-dragon-icon.svg"></code>
   <code><img height="40" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"></code> <!-- Web -->
   <code><img height="40" src="https://cdn-icons-png.flaticon.com/512/888/888857.png"></code> <!-- Windows -->
   <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg"></code>
@@ -57,32 +53,6 @@
 
 
  ---
-**Leetcode:**
-<p align="center">
-<div align="center">
-  
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/priyanshrocks17)
-  
-</div>
-</p>
-
----
-
-**Github Stats:**
-
-<p align="center">
-  <div align="center">
-    
-  ![priyanshrd's Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshrd&theme=vue-dark&hide_border=true)
-  ![priyanshrd's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshrd&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-  
-  </div>
-</p>
-
- 
-
-
----
 
 </p>
 
